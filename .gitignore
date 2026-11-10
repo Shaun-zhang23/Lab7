@@ -1,0 +1,17 @@
+# Report files (do not upload)
+*.doc
+*.docx
+
+# Local database files (locked by LocalDB, do not upload)
+App_Data/
+
+# Visual Studio / build artifacts
+[Bb]in/
+[Oo]bj/
+.vs/
+packages/
+*.user
+*.suo
+
+# Resharper etc.
+*.DotSettings.user
